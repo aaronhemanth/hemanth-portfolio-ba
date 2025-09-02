@@ -1,10 +1,10 @@
 # Tippani Hemanth — Business Analysis & Consulting Portfolio
 
-**Email:** hemanthtippani17@gmail.com  
-**LinkedIn:** linkedin.com/in/hem-tippani-279a9a184
+**Email:** [hemanthtippani17@gmail.com](mailto:hemanthtippani17@gmail.com)  
+**LinkedIn:** [linkedin.com/in/hem-tippani-279a9a184](https://linkedin.com/in/hem-tippani-279a9a184)  
+**CV:** [Download BA CV (PDF)](assets/ba-cv.pdf)
 
 MSc Business Analysis & Consulting (Strathclyde). 3.5+ years improving reporting cadence, data quality and stakeholder decision-making. Strong in requirements elicitation, process mapping (BPMN, As-Is/To-Be), KPI/OKR design & governance, SODA/PSM, MCDA, hypothesis testing, forecasting, and stakeholder storytelling.
-
 ---
 
 ## Featured Work
