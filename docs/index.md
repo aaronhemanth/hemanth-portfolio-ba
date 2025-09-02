@@ -5,7 +5,9 @@
 **CV:** [Download BA CV (PDF)](assets/ba-cv.pdf)
 
 MSc Business Analysis & Consulting (Strathclyde). 3.5+ years improving reporting cadence, data quality and stakeholder decision-making. Strong in requirements elicitation, process mapping (BPMN, As-Is/To-Be), KPI/OKR design & governance, SODA/PSM, MCDA, hypothesis testing, forecasting, and stakeholder storytelling.
+
 _Last updated: {{ site.time | date: "%d %b %Y" }}_
+
 ---
 
 ## Featured Work
